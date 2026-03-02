@@ -69,7 +69,7 @@
 📂 Repository Contents
 
 📔 Analysis Notebook: 'monitoring_trends_and_evaluation_impact_of_Lassa_fever_in_Nigeria.ipynb'
-📊 Dataset: 'simuakted_lassa_program_data_nigeria.xls'
+📊 Dataset: 'simulated_lassa_program_data_nigeria.xls'
 
 
 🗒️Transparency
@@ -79,13 +79,13 @@ This project uses simulated data created to reflect realistic epidemiological pa
 📊 Key Visuals
 
 ### Intervention mpact on Confirmed Cases
-![Intervention Impact](visuals/intervention_impact_trend.png)
+![Intervention Impact](Visuals/intervention_impact_trend.png)
 
 ### Pre vs Post Intervention Comparison
-![Pre vs Post](visuals/pre_post_comparison.png)
+![Pre vs Post](Visuals/pre_post_comparison.png)
 
 ### Case Fatality Rate Trend
-![CFR Trend](cfr_trend_intervention.png)
+![CFR Trend](Visuals/cfr_trend_intervention.png)
 
 
 
