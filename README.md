@@ -78,7 +78,7 @@ This project uses simulated data created to reflect realistic epidemiological pa
 
 📊 Key Visuals
 
-### Intervention mpact on Confirmed Cases
+### Intervention Impact on Confirmed Cases
 ![Intervention Impact](Visuals/intervention_impact_trend.png)
 
 ### Pre vs Post Intervention Comparison
