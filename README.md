@@ -69,7 +69,13 @@
 📂 Repository Contents
 
 📔 Analysis Notebook: 'monitoring_trends_and_evaluation_impact_of_Lassa_fever_in_Nigeria.ipynb'
+
 📊 Dataset: 'simulated_lassa_program_data_nigeria.xls'
+
+🔖 Executive Summary: 'impact_and_insight summary.pdf'
+
+💹 Visuals: 'visuals'
+
 
 
 🗒️Transparency
